@@ -37,4 +37,4 @@ Infrastructure
 
 🚧 Version 1.0 under active development.
 
-© Trust Infrastructure Nexus Africa
+© Trust Infrastructure Nexus Africa 
